@@ -29,8 +29,9 @@ public class Main {
                 PatronValidator.getValue();
             case 3:
                 CutToFirstUpper.getString();
-
+            case 4:
+                ArrString.getNames();
         }
-        ArrString.getNames();
+
     }
 }
