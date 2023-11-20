@@ -2,7 +2,7 @@ package aabbPatron;
 
 public class PatronValidator {
 
-    public static void getValue(){
+    public static void main(String [] args){
         System.out.println("Ingrese un patrón");
 
         boolean result = solution("aabb");

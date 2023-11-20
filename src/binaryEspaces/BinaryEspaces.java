@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class BinaryEspaces {
 
-    public static void getNumber() {
+    public static void main(String [] args){
 
         Scanner sc = new Scanner(System.in);
         int number = 0;

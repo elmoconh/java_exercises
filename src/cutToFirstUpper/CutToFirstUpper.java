@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class CutToFirstUpper {
 
-    public static void getString(){
+    public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Ingrese una frase");
