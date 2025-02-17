@@ -6,7 +6,7 @@ public class GasolineTank {
     public static void main (String[] args){
 
         int gas = 70;
-        double gasActual = 0;
+        double gasActual;
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese la cantidad de gasolina actual");
